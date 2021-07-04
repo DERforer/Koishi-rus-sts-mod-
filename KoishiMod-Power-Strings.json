@@ -1,7 +1,7 @@
 {
 "Koishi:EphemeralPower": {
         "NAME": "Эфемерность",
-        "DESCRIPTIONS": [" Дает #b" " #yНеосязаемость"," когда вы получаете #b"," #yЭфемерности"] 
+        "DESCRIPTIONS": [" Дает #b", " #yНеосязаемость"," когда вы получаете #b"," #yЭфемерности."] 
 },
 "Koishi:TerrorPower": {
         "NAME": "Ужас",
@@ -20,12 +20,12 @@
         "DESCRIPTIONS": ["Отнимает", " в след. ходу."]
 },
 "Koishi:LoseThornsPower": {
-        "NAME": "Временные шипы",
+        "NAME": "Понижение шипы",
         "DESCRIPTIONS": ["Отнимает #b", " #yШипы в конце вашего хода."]
 },
 "Koishi:UntouchablePower": {
         "NAME": "Недосигаемая",
-        "DESCRIPTIONS": ["Whenever you gain #yIntangible, Дает #b", " #yВременное  #yОЗ, когда вы получаете #yНеосязаемость."]
+        "DESCRIPTIONS": [" Дает #b", " #yВременное  #yОЗ, когда вы получаете #yНеосязаемость."]
 },
 "Koishi:HeartbrokenPower": {
         "NAME": "Разбитое сердце",
@@ -53,7 +53,7 @@
 },
 "Koishi:EnergyNextTurnPower": {
         "NAME": "Энергичность",
-        "DESCRIPTIONS": [" Дает", " ."" в след ходу"]
+        "DESCRIPTIONS": [" Дает", " ", " в след ходу."]
 },
 "Koishi:FreudianInstinctPower": {
         "NAME": "Чутье Фрейда",
