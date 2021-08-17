@@ -1,8 +1,9 @@
 # Koishi-rus-sts-mod
-ЧИТАЙ ИНСТРУКЦИЮ! и файл Readme.md не клади в папку, ты же не дурак да? Инструкция по установке
+Видео по установке модов на Шпиль-https://youtu.be/bBMtYdGAk0g
 
-Найти jar с модом. Вот сам мод:https://steamcommunity.com/sharedfiles/filedetails/?id=1838001664&searchtext=Koishi+
+Сам мод мастерской. Вот ссылка :https://steamcommunity.com/sharedfiles/filedetails/?id=1838001664&searchtext=Koishi+
+ 
+Файл Readme.md  можешь не скачивать
 
-Открыть архиватором(winrar, Engrampa Archive Manager, 7z) jar архив мода.
-
-Заменить JSON файлы локализации
+Найти Jar мода. Открыть любым архиватором(winrar, Engrampa Archive Manager, 7z) jar архив мода.
+Найти файл localization и заменить JSON файлы мода на те что скачал
