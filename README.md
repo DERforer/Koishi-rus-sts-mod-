@@ -1,7 +1,7 @@
 # Koishi-rus-sts-mod
 Видео по установке модов на Шпиль-https://youtu.be/bBMtYdGAk0g
 
-Сам мод мастерской. Вот ссылка :https://steamcommunity.com/sharedfiles/filedetails/?id=1838001664&searchtext=Koishi+
+В самом моде уже есть русский, он в мастерской. Вот ссылка :https://steamcommunity.com/sharedfiles/filedetails/?id=1838001664&searchtext=Koishi+
  
 Файл Readme.md  можешь не скачивать
 
